@@ -6,7 +6,8 @@ These are 5 basic javascript projects for beginners.
 4. navbar(a responsive nav bar)
 5. sideNavbar(a responsive side nav bar)
 6. modal(a basic modal)
-7. questions(question section wwere we have some question and when we click the button it show the answer)
+7. questions(question section where we have some questions and when we click the button it shows the answer)
 8. video (a website having video baackground ,user can play and pause the background video)
+9. paragraph generator(user inputs a no. and then it generates that no. of paragraphs)
 
 just clone and have fun!
