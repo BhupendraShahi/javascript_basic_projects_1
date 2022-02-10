@@ -9,5 +9,6 @@ These are some basic javascript projects.
 7. questions(question section where we have some questions and when we click the button it shows the answer)
 8. video (a website having video baackground ,user can play and pause the background video)
 9. paragraph generator(user inputs a no. and then it generates that no. of paragraphs)
+10. a drum kit where you can play different drum sounds using mouse cliks and keyboard.
 
 just clone and have fun!
